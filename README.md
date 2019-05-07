@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm i`
+
+First Use npm i Command To Download Needed Packages
 
 ### `npm start`
 
